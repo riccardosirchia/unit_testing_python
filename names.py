@@ -1,6 +1,6 @@
 from name_functions import get_formated_name
 
-print('Enter "q" to quit the program')
+print('Enter "q" to quit the program.')
 
 while True:
 	first = input("Enter your first name: ")
